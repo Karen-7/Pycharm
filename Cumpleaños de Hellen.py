@@ -39,11 +39,11 @@ for _ in range(50):
 
 # Texto principal
 escribir("🎉 Felíz Cumpleaños 🎉", 0, 80, 28, "pink")
-escribir("Hellen", 0, 40, 36, "white")
+escribir("Lara", 0, 40, 36, "white")
 
 # Mensaje final
-escribir("Te quiere mucho,", 0, -60, 16, "white")
-escribir("Tu hermanito Bryan 💙", 0, -100, 16, "White")
+escribir("pasala bien,", 0, -60, 16, "white")
+escribir("💙", 0, -100, 16, "White")
 
 # Animación simple de brillo
 for _ in range(10):
